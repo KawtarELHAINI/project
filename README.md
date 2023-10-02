@@ -1,4 +1,4 @@
 # project
 git course
 
-## project notes 
+## Project notes 
